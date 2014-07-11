@@ -6,3 +6,14 @@ Functester
 
 ###软件界面
 ![软件界面](https://raw.githubusercontent.com/jxzly229190/Functester/master/image/show.png)
+
+### Demo运行说明 ###
+请下载此项目后配置app.config>>appSettings>>TestBinPath 节点为您需要测试的DLL文件所在的绝对文件夹路径。运行FuncTester即可。
+
+### 项目说明 ###
+* FuncTester 为主项目
+* TestedDLL 测试项目，只包测试类一个方法
+
+### 环境依赖 ###
+* DotNet Framework 4.0+
+
